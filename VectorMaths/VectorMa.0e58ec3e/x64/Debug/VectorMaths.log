@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  VectorMath.cpp
+  Generating Code...
+     Creating library C:\Users\olle_\source\repos\VectorMaths\x64\Debug\VectorMathematics.lib and object C:\Users\olle_\source\repos\VectorMaths\x64\Debug\VectorMathematics.exp
+  VectorMaths.vcxproj -> C:\Users\olle_\source\repos\VectorMaths\x64\Debug\VectorMathematics.dll

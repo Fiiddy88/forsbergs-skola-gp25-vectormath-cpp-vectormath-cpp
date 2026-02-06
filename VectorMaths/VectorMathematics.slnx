@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../VectorMathematicsTests/VectorMathematicsTests.vcxproj" Id="03b77723-c3f9-47ae-8837-ff37843f303c">
+    <BuildDependency Project="VectorMaths.vcxproj" />
+  </Project>
+  <Project Path="VectorMaths.vcxproj" Id="0e58ec3e-f4e6-4cbb-9935-5e97dff174fa" />
+</Solution>
