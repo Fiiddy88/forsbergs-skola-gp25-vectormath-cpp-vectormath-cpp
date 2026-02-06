@@ -1,6 +1,23 @@
-﻿  pch.cpp
-  dllmain.cpp
-  VectorMath.cpp
-  Generating Code...
-     Creating library C:\Users\olle_\source\repos\VectorMaths\x64\Debug\VectorMathematics.lib and object C:\Users\olle_\source\repos\VectorMaths\x64\Debug\VectorMathematics.exp
-  VectorMaths.vcxproj -> C:\Users\olle_\source\repos\VectorMaths\x64\Debug\VectorMathematics.dll
+﻿  VectorMath.cpp
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(7,17): warning C4273: 'VectorAdd': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(23,22):
+      see previous definition of 'VectorAdd'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(11,17): warning C4273: 'VectorSubtract': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(24,22):
+      see previous definition of 'VectorSubtract'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(15,18): warning C4273: 'VectorMagnitude': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(26,23):
+      see previous definition of 'VectorMagnitude'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(19,17): warning C4273: 'VectorNormalize': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(27,22):
+      see previous definition of 'VectorNormalize'
+  
+     Creating library C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\x64\Debug\VectorMathematics.lib and object C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\x64\Debug\VectorMathematics.exp
+  VectorMaths.vcxproj -> C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\x64\Debug\VectorMathematics.dll

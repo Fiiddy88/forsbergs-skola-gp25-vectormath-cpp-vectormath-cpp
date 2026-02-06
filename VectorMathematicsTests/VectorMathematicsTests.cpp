@@ -1,17 +1,33 @@
 #include <iostream>
 #include <cmath>
-
-struct Vec3 {
-    float x, y, z;
-};
-
-Vec3 VectorAdd(Vec3 a, Vec3 b) {
-    return { a.x + b.x, a.y + b.y, a.z + b.z };
-}
+#include "Vectormath.h"
 
 int main()
 {
-    auto added = VectorAdd({ 1,2,3 }, { 1,2,3 });
-    std::cout << added.x << ", " << added.y << ", " << added.z << std::endl;
-    std::cin.get();
+	Vec3 a{ 3.0f, 4.0f, 0.0f };
+	Vec3 b{ 1.0f, 2.0f, 3.0f };
+
+	Vec3 added = VectorAdd(a, b);
+	Vec3 sub = VectorSubtract(a, b);
+	float mag = VectorMagnitude(a);
+	Vec3 norm = VectorNormalize(a);
+
+	std::cout << "Add; "
+		<< added.x << ", "
+		<< added.y << ", "
+		<< added.z << std::endl;
+
+	std::cout << "Sub; "
+		<< sub.x << ", "
+		<< sub.y << ", "
+		<< sub.z << std::endl;
+
+	std::cout << "Magnitude: " << mag << std::endl;
+	std::cout << "Normalize: "
+		<< norm.x << ", "
+		<< norm.y << ", "
+		<< norm.z << std::endl;
+
+	std::cin.get();
+	return 0;
 }
