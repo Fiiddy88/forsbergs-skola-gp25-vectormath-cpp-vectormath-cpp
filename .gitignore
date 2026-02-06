@@ -1,0 +1,49 @@
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.VC.db
+*.VC.VC.opendb
+ipch/
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[bB]in/
+[Oo]bj/
+
+## OneDrive (move project out anyway)
+*.tmp
+
+## Precompiled headers
+*.pch
+*.idb
+
+## Test executables
+*.exe
+VectorMathematicsTests.exe
+
+## DLL outputs
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+## Logs/output
+*.log
+*.rdl.data
+
+## JetBrains Rider (your preferred IDE)
+.idea/
+
+## OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Unity plugin output (future)
+Plugins/
