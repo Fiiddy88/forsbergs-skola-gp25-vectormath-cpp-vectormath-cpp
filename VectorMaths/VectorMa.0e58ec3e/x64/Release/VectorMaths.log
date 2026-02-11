@@ -1,0 +1,64 @@
+﻿  pch.cpp
+  dllmain.cpp
+  VectorMath.cpp
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(7,17): warning C4273: 'VectorAdd': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(23,22):
+      see previous definition of 'VectorAdd'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(11,17): warning C4273: 'VectorSubtract': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(24,22):
+      see previous definition of 'VectorSubtract'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(15,18): warning C4273: 'VectorMagnitude': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(26,23):
+      see previous definition of 'VectorMagnitude'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(19,17): warning C4273: 'VectorNormalize': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(27,22):
+      see previous definition of 'VectorNormalize'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(30,18): warning C4273: 'VectorDot': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(29,23):
+      see previous definition of 'VectorDot'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(33,17): warning C4273: 'VectorCross': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(30,22):
+      see previous definition of 'VectorCross'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(40,17): warning C4273: 'VectorScale': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(31,22):
+      see previous definition of 'VectorScale'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(43,17): warning C4273: 'VectorReflect': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(32,22):
+      see previous definition of 'VectorReflect'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(48,18): warning C4273: 'VectorDistance': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(33,23):
+      see previous definition of 'VectorDistance'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(53,17): warning C4273: 'VectorLerp': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(34,22):
+      see previous definition of 'VectorLerp'
+  
+C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\VectorMath.cpp(58,17): warning C4273: 'VectorClamp': inconsistent dll linkage
+  (compiling source file '/VectorMath.cpp')
+      C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\Vectormath.h(35,22):
+      see previous definition of 'VectorClamp'
+  
+     Creating library C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\x64\Release\VectorMathematics.lib and object C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\x64\Release\VectorMathematics.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VectorMaths.vcxproj -> C:\Users\olle_\OneDrive\Desktop\Create with Code\Forsbergs\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\VectorMaths\x64\Release\VectorMathematics.dll
