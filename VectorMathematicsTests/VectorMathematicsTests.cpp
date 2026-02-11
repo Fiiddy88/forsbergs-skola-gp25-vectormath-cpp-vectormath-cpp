@@ -17,6 +17,18 @@ int main() {
     std::cout << "Norm: (" << VectorNormalize(a).x << ", "
         << VectorNormalize(a).y << ", " << VectorNormalize(a).z << ")\n";
 
+    Vec2 a2{ 3.0f,4.0f };
+    Vec2 b2{ 1.0f,2.0f };
+
+    std::cout << "Vec2 Add: (" << Vector2Add(a2, b2).x << ", "
+        << Vector2Add(a2, b2).y << ")\n";
+    std::cout << "Vec2 Sub: (" << Vector2Subtract(a2, b2).x << ", "
+        << Vector2Subtract(a2, b2).y << ")\n";
+    std::cout << "Vec2 Mag: " << Vector2Magnitude(a2) << "\n";
+    std::cout << "Vec2 Norm: (" << Vector2Normalize(a2).x << ", "
+        << Vector2Normalize(a2).y << ")\n";
+    std::cout << "Vec2 Dot: " << Vector2Dot(a2, b2) << "\n";
+
     std::cin.get();
     return 0;
 }

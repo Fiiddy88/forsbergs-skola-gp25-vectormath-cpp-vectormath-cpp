@@ -34,4 +34,11 @@ extern "C" {
 	VECTORMATH_API Vec3 VectorLerp(Vec3 a, Vec3 b, float t);
 	VECTORMATH_API Vec3 VectorClamp(Vec3 v, float min, float max);
 
+	VECTORMATH_API Vec2 Vector2Add(Vec2 a, Vec2 b);
+	VECTORMATH_API Vec2 Vector2Subtract(Vec2 a, Vec2 b);
+	VECTORMATH_API Vec2 Vector2Scale(Vec2 v, float s);
+	VECTORMATH_API float Vector2Magnitude(Vec2 v);
+	VECTORMATH_API Vec2 Vector2Normalize(Vec2 v);
+	VECTORMATH_API float Vector2Dot(Vec2 a, Vec2 b);
+
 }
