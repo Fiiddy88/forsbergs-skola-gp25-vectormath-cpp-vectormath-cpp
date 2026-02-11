@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03B77723-C3F9-47AE-8837-FF37843F303C}|..\\VectorMathematicsTests\\VectorMathematicsTests.vcxproj|C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMathematicsTests\\VectorMathematicsTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E58EC3E-F4E6-4CBB-9935-5E97DFF174FA}|VectorMaths.vcxproj|C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\VectorMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E58EC3E-F4E6-4CBB-9935-5E97DFF174FA}|VectorMaths.vcxproj|solutionrelative:VectorMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E58EC3E-F4E6-4CBB-9935-5E97DFF174FA}|VectorMaths.vcxproj|C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\Vectormath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E58EC3E-F4E6-4CBB-9935-5E97DFF174FA}|VectorMaths.vcxproj|solutionrelative:Vectormath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B77723-C3F9-47AE-8837-FF37843F303C}|..\\VectorMathematicsTests\\VectorMathematicsTests.vcxproj|C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMathematicsTests\\VectorMathematicsTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E58EC3E-F4E6-4CBB-9935-5E97DFF174FA}|VectorMaths.vcxproj|C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,20 +25,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Vectormath.h",
               "DocumentMoniker": "C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\Vectormath.h",
               "RelativeDocumentMoniker": "Vectormath.h",
               "ToolTip": "C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\Vectormath.h",
               "RelativeToolTip": "Vectormath.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-05T13:20:03.854Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,25 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "VectorMath.cpp",
               "DocumentMoniker": "C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\VectorMath.cpp",
               "RelativeDocumentMoniker": "VectorMath.cpp",
               "ToolTip": "C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMaths\\VectorMath.cpp",
               "RelativeToolTip": "VectorMath.cpp",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAqwF0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwJYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-05T13:19:43.018Z"
+              "WhenOpened": "2026-02-05T13:19:43.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "VectorMathematicsTests.cpp",
               "DocumentMoniker": "C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMathematicsTests\\VectorMathematicsTests.cpp",
               "RelativeDocumentMoniker": "..\\VectorMathematicsTests\\VectorMathematicsTests.cpp",
               "ToolTip": "C:\\Users\\olle_\\OneDrive\\Desktop\\Create with Code\\Forsbergs\\forsbergs-skola-gp25-vectormath-cpp-vectormath-cpp\\VectorMathematicsTests\\VectorMathematicsTests.cpp",
               "RelativeToolTip": "..\\VectorMathematicsTests\\VectorMathematicsTests.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-06T09:20:30.655Z",
               "EditorCaption": ""
