@@ -3,18 +3,27 @@
 #include <iostream>
 #include <iomanip>
 
-bool TestPassed = true;
+int TotalTests = 0;
+int PassedTests = 0;
+int FailedTests = 0;
+
 
 void AssertFloat(float expected, float actual, const std::string& testName) {
     float tolerance = 0.01f;
+    TotalTests++;
+
     if (std::abs(expected - actual) > tolerance) {
-        std::cout << "FAIL: " << testName << " (Expected;" << expected
+        std::cout << "FAIL: " << testName
+            << " (Expected: " << expected
             << ", Got: " << actual << ")\n";
-        TestPassed = false;
-    }else{
+        FailedTests++;
+    }
+    else {
         std::cout << "PASS: " << testName << "\n";
+        PassedTests++;
     }
 }
+
 
 void AssertVec2(Vec2 expected, Vec2 actual, const std::string& testName) {
     AssertFloat(expected.x, actual.x, testName + ".x");
@@ -88,10 +97,12 @@ int main() {
 
     //Summary
 
-    std::cout << "\n" << (TestPassed ? "All Test Passed" : "Test Failed") << "\n";
-    std::cout << "Total Tests: " << (TestPassed ? "Passed" : " Failed") << "\n";
+    std::cout << "\n===== TEST SUMMARY =====\n";
+    std::cout << "Total Tests:  " << TotalTests << "\n";
+    std::cout << "Passed:       " << PassedTests << "\n";
+    std::cout << "Failed:       " << FailedTests << "\n";
 
-    std::cin.get();
-    return TestPassed ? 0 : 1;
+    return FailedTests == 0 ? 0 : 1;
+
 
 }
